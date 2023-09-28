@@ -1,0 +1,16 @@
+.container{
+    background-color: #e9b82b;
+    margin: 0 auto;
+    text-align: center;
+    width: 320px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+img{
+     margin-top: 10px;
+     border-radius: 10px;
+}
+.para{
+     margin-right: 30px;
+}

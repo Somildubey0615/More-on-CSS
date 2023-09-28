@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    border-radius: 50%;
+}
+
+.baby{
+    text-align: center;
+    
+    /* margin:auto;
+    width: 50%;
+     */
+}

@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+        background-color: #295ec1;
+        height: 85px;
+        
+    }
+    nav ul li {
+        display: inline-block;
+        list-style: none;
+        margin-left: 25px;
+        margin-right: 25px;
+        padding-bottom: 20px;
+        padding-top: 30px;
+        
+    }
+    
+    a{
+        color: aliceblue;
+        font-size: 20px;
+        
+    }
+     
+    .home:hover{
+        color: rgb(142, 27, 27);
+        
+    }
+    .about:hover{
+        color: rgb(6, 5, 5);
+        
+    }
+    .contact:hover{
+        color: rgb(125, 27, 142);
+        
+    }
+    .blog:hover{
+        color: rgb(142, 115, 27);
+        
+    }
+    .login:hover{
+        color: rgb(77, 1, 84);
+        
+    }
